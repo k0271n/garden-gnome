@@ -5,4 +5,4 @@ A cool, crisp theme for the Ptyxis terminal, as forked from Hemisu.
 …
 
 ## Screenshots
-![Garden GNOME Light, running `tree` and `cowsay`.](GARDEN\ GNOME\ Light.png)
+![Garden GNOME Light, running `tree` and `cowsay`.](Garden GNOME Light.png)
