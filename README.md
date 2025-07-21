@@ -1,6 +1,9 @@
 # garden-gnome
 A cool, crisp theme for the Ptyxis terminal, forked from Hemisu.
 
+## Notes
+…
+
 ## Usage
 …
 
@@ -9,6 +12,4 @@ A cool, crisp theme for the Ptyxis terminal, forked from Hemisu.
 
 ![The Garden GNOME theme in dark mode, with Ptyxis running `tree` and `cowsay`.](garden-gnome-dark.png)
 
-![The Garden GNOME theme in dark mode, with Ptyxis showing its colors.](garden-gnome-colors.png)
-
-> I plan to expand this section.
+> I plan to expand this section—ideally with a full showcase of the color theme.
